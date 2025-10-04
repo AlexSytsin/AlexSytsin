@@ -3,8 +3,8 @@
 ---
 <p align="left">
   <a href="mailto:aliaksandr.sytsin@gmail.com">aliaksandr.sytsin@gmail.com</a> •
-  <a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a> •
-  <a href="YOUR_GITHUB_URL_HERE">GitHub</a>
+  <a href="https://www.linkedin.com/in/alexsytin/">LinkedIn</a> •
+  <a href="https://github.com/AlexSytsin/AlexSytsin">GitHub</a>
 </p>
 
 ## 👤 About
